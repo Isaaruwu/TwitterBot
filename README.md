@@ -1,2 +1,2 @@
-# TwitterBot
- Twitter bot that replies when tagged
+## TwitterBot
+Twitter bot that replies when tagged. 
